@@ -1,0 +1,377 @@
+@font-face {
+	font-family: fuenteMenu;
+	src: url(../fonts/Fuentemenu.otf)
+}
+
+@font-face {
+	font-family: fuenteMakeUp;
+	src: url(../fonts/Vincentia.otf)
+}
+
+@font-face {
+	font-family: fuenteContenido;
+	src: url(../fonts/CenturyGothic.ttf)
+}
+
+@font-face {
+	font-family: fuenteContenidoB;
+	src: url(../fonts/CenturyGothicB.TTF)
+}
+
+html {
+	scroll-behavior: smooth;
+	font-size: 100%;
+}
+
+.menuBar {
+	background-color: #000;
+	font-family: fuenteMenu
+}
+
+.cuerpo {
+	background-color: #fff;
+	font-family: fuenteContenido;
+	font-size: 1.2em;
+	text-align: justify
+}
+
+.titulo {
+	font-family: fuenteContenidoB;
+	text-align: left;
+	color: #BF9000
+}
+
+.alignPrecios {
+	text-align: center
+}
+
+.centeroo {
+	margin: auto
+}
+
+.menuBarMovil {
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1.7em
+}
+
+.textoBrand {
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 1.7em
+}
+
+.menuBarMakeUp {
+	font-family: fuenteMakeUp;
+	font-size: 1.7em
+}
+
+div.logoDesktop img {
+	width: 30%
+}
+
+.imgRed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 50%;
+	max-height: 50%
+}
+
+.childDiv {
+	display: inline-block;
+	width: 50%
+}
+
+.contenedor {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	-moz-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center
+}
+
+.btn-dark {
+	color: #fff;
+	background-color: #000;
+	border-color: #000
+}
+
+.btn-dark:hover {
+	color: #fff;
+	background-color: #343a40;
+	border-color: #1d2124
+}
+
+.bg {
+	background-image: url("../Img/Fondo.png");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover
+}
+
+ul.cost {
+	list-style-type: square
+}
+
+.etiquetaPrecio {
+	width: 33.33%;
+	height: auto
+}
+
+.card {
+	border: none
+}
+
+.tCentro {
+	text-align: center
+}
+
+.ochenta {
+	width: 80%
+}
+
+.el {
+	-webkit-align-self: stretch;
+	-ms-flex-item-align: stretch;
+	-ms-grid-row-align: stretch;
+	align-self: stretch;
+	height: auto
+}
+
+.bordeA {
+	border-bottom: 1px solid #ddd
+}
+
+.tituloServ {
+	color: #BF9000
+}
+
+.derechaH {
+	text-align: right
+}
+
+.izquierdaH {
+	text-align: left
+}
+
+.centroH {
+	text-align: center
+}
+
+.detalle {
+	min-height: 2rem;
+}
+
+@media only screen and (max-width:992px) {
+	.listaMov {
+		-webkit-padding-start: 0px;
+		-moz-padding-start: 0px;
+		padding-inline-start: 0px
+	}
+
+	.ocultarMovil {
+		display: none
+	}
+
+	.h4M {
+		font-size: 0.7em
+	}
+
+	h1 {
+		font-size: 1.2em
+	}
+
+	.h3Mov {
+		font-size: 1em
+	}
+
+	.coluAdd {
+		width: 100%
+	}
+
+	.filaAdd {
+		height: 100%
+	}
+
+	.dispBlock {
+		display: block
+	}
+
+	.textCentM {
+		text-align: center
+	}
+
+	.alturaM {
+		height: 300px
+	}
+
+	.dispWrap {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		-moz-box-orient: vertical;
+		-moz-box-direction: normal;
+		-ms-flex-direction: column;
+		flex-direction: column
+	}
+
+	.textoMov {
+		font-size: 0.7em
+	}
+
+	.capital {
+		text-transform: capitalize
+	}
+
+}
+
+@media only screen and (min-width:992px) {
+	.dispLinea {
+		display: inline-block
+	}
+
+	.noGrande {
+		display: none
+	}
+
+	.posCerrar {
+		margin: auto;
+		width: 700px
+	}
+
+}
+
+.myImg:hover {
+	opacity: 0.7
+}
+
+.modal {
+	display: none;
+	position: fixed;
+	z-index: 1;
+	padding-top: 100px;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: #000;
+	background-color: rgba(0, 0, 0, 0.9)
+}
+
+.modal-content {
+	margin: auto;
+	display: block;
+	width: 80%;
+	max-width: 700px
+}
+
+.modal-content {
+	-webkit-animation-name: zoom;
+	-webkit-animation-duration: 0.6s;
+	-moz-animation-name: zoom;
+	-o-animation-name: zoom;
+	animation-name: zoom;
+	-moz-animation-duration: 0.6s;
+	-o-animation-duration: 0.6s;
+	animation-duration: 0.6s
+}
+
+@-webkit-keyframes zoom {
+	from {
+		-webkit-transform: scale(0)
+	}
+
+	to {
+		-webkit-transform: scale(1)
+	}
+
+}
+
+@-moz-keyframes zoom {
+	from {
+		-moz-transform: scale(0.1);
+		transform: scale(0.1)
+	}
+
+	to {
+		-moz-transform: scale(1);
+		transform: scale(1)
+	}
+
+}
+
+@-o-keyframes zoom {
+	from {
+		-o-transform: scale(0.1);
+		transform: scale(0.1)
+	}
+
+	to {
+		-o-transform: scale(1);
+		transform: scale(1)
+	}
+
+}
+
+@keyframes zoom {
+	from {
+		-webkit-transform: scale(0.1);
+		-moz-transform: scale(0.1);
+		-o-transform: scale(0.1);
+		transform: scale(0.1)
+	}
+
+	to {
+		-webkit-transform: scale(1);
+		-moz-transform: scale(1);
+		-o-transform: scale(1);
+		transform: scale(1)
+	}
+
+}
+
+.close {
+	top: 15px;
+	color: #f1f1f1;
+	font-size: 40px;
+	font-weight: bold;
+	-webkit-transition: 0.3s;
+	-o-transition: 0.3s;
+	-moz-transition: 0.3s;
+	transition: 0.3s
+}
+
+.close:hover, .close:focus {
+	color: #bbb;
+	text-decoration: none;
+	cursor: pointer
+}
+
+@media only screen and (max-width:700px) {
+	.modal-content {
+		width: 100%
+	}
+
+}
+
+.btn-home {
+	color: #000;
+}
+
+.btn-home:hover {
+	color: darkgrey;
+	text-decoration: none;
+}
