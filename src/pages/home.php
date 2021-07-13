@@ -1,6 +1,6 @@
 	<article class=" bg">
 		<div style="visibility: hidden;height: 0px;overflow: none;">
-			<gcse:searchresults></gcse:searchresults>	
+			<div class="gcse-searchresults-only"></div>
 		</div>
 		<div class="mx-0 w-100 row">
 		    <div class="col-1" style="color: #ddd;">

@@ -13,6 +13,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:500" rel="stylesheet">
+	<script async src="https://cse.google.com/cse.js?cx=012137303303141424084:dqyvcbjtmok"></script>
 	<!-- descripcion -->
 	<meta name="description" content="Soy maquillista profesional, propuestas y costos para XV años, novias, maquillaje social, de noche y más. Imparto cursos de maquillaje online y presencial."/>
 	<meta name="author" content="Devstar Novatech">
@@ -23,4 +24,5 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/main.css">
 	<script src="js/scrollreveal.min.js"></script>
+
 </head>

@@ -56,18 +56,8 @@
 			      	<div class="input-group w-100 ml-auto">
 							</div>
     			</form>
+				<div class="gcse-searchbox-only">
+				</div>
 			</div>
-				<script>
-				  (function() {
-				    var cx = '012137303303141424084:dqyvcbjtmok';
-				    var gcse = document.createElement('script');
-				    gcse.type = 'text/javascript';
-				    gcse.async = true;
-				    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-				    var s = document.getElementsByTagName('script')[0];
-				    s.parentNode.insertBefore(gcse, s);
-				  })();
-				</script>
-				<gcse:searchbox></gcse:searchbox>
 		</div>
 	</nav>
