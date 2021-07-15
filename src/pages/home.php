@@ -1,5 +1,5 @@
 	<article class=" bg">
-		<div style="visibility: hidden;height: 0px;overflow: none;">
+		<div style="visibility: hidden;height: 0px;">
 			<div class="gcse-searchresults-only"></div>
 		</div>
 		<div class="mx-0 w-100 row">
