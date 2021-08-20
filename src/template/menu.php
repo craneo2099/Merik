@@ -6,7 +6,7 @@
 
 			<div class="col-10">
 				<a class="navbar-brand menuBarMovil py-0 btn btn-dark" href="index.php?view=index">
-					<img src="Img/Logo_g_sm.png" alt="Merik_makeup">					
+					<img src="Img/Logo_g_sm.webp" alt="Logo_g_sm.webp">					
 				</a>
 			</div>
 
@@ -48,7 +48,7 @@
 				    	<img class="mx-auto " src="Img/Facebook.png" width="30" height="30" alt="facbookLogo">
 				  	</a>				
 					<a class="navbar-brand mx-1 d-none d-lg-block d-xl-block" href="https://www.instagram.com/merikmakeup/" target="_blank">
-				    	<img class="mx-auto " src="Img/Instagram.png" width="30" height="30" alt="InstaLogo">
+				    	<img class="mx-auto " src="Img/Instagram.webp" width="30" height="30" alt="Instagram.webp">
 				  	</a>									
 					
 				  	<!-- mierda -->

@@ -16,17 +16,17 @@
 				  	<div id="novias" class="row align-items-center">
 						<div class="col-sm-3">
 						  <!-- <p>Novias</p> -->
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/novia2N2_tmb.jpg" class="img-thumbnail myImg shadow"  style="width:100%" alt="novia2N2" id="novia2N2">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/novia2N2_tmb.webp" class="img-thumbnail myImg shadow"  style="width:100%" alt="novia2N2_tmb.webp" id="novia2N2">
 						</div>
 
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c1-2N_tmb.jpg" class="img-thumbnail myImg shadow"  style="width:100%" alt="c1-2N" id="c1-2N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c1-2N_tmb.webp" class="img-thumbnail myImg shadow"  style="width:100%" alt="c1-2N_tmb.webp" id="c1-2N">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c2-2N_tmb.jpg" class="img-thumbnail myImg shadow"  style="width:100%" alt="c2-2N" id="c2-2N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c2-2N_tmb.webp" class="img-thumbnail myImg shadow"  style="width:100%" alt="c2-2N_tmb.webp" id="c2-2N">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/sistasN_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="sistasN"  id="sistasN">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/sistasN_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="sistasN_tmb.webp"  id="sistasN">
 						</div>
 				  	</div>
 				</div>
@@ -35,16 +35,16 @@
 				  	<div class="row align-items-center">
 						<div class="col-sm-3">
 						  <!-- <p>Novias</p> -->
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp4N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="comp4N" id="comp4N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp4N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="comp4N_tmb.webp" id="comp4N">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp1N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="comp1N" id="comp1N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp1N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="comp1N_tmb.webp" id="comp1N">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp2N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="comp2N" id="comp2N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp2N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="comp2N_tmb.webp" id="comp2N">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp3N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="comp3N" id="comp3N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp3N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="comp3N_tmb.webp" id="comp3N">
 						</div>
 				  	</div>
 				</div>
@@ -52,16 +52,16 @@
 			    <div class="container-fluid my-4">    
 				  	<div class="row align-items-center">
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/XV_AD_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="XV anios antes despues" id="XV_AD">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/XV_AD_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="XV_AD_tmb.webp" id="XV_AD">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c4-2N2_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="c4-2N2" id="c4-2N2">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c4-2N2_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="c4-2N2_tmb.webp" id="c4-2N2">
 						</div>
 						<div class="col-sm-3">						  
-						 	<img onclick="javascript:obtenerID(this)" src="Img/fotos/c7-4N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="c7-4N" id="c7-4N">
+						 	<img onclick="javascript:obtenerID(this)" src="Img/fotos/c7-4N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="c7-4N_tmb.webp" id="c7-4N">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp5N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="Antes y despues" id="comp5N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/comp5N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="comp5N_tmb.webp" id="comp5N">
 						</div>
 				  	</div>
 				</div>
@@ -69,17 +69,17 @@
 			    <div class="container-fluid my-4">    
 				  	<div class="row align-items-center">
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c7-2N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="c7-2N" id="c7-2N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c7-2N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="c7-2N_tmb.webp" id="c7-2N">
 						</div>
 						<div class="col-sm-3">
 						  <!-- <p>Novias</p> -->
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/maq1N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="maq1N" id="maq1N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/maq1N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="maq1N_tmb.webp" id="maq1N">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/maq3N_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="maq3N" id="maq3N">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/maq3N_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="maq3N_tmb.webp" id="maq3N">
 						</div>
 						<div class="col-sm-3">
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c6-2N2_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="c6-2N2" id="c6-2N2">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/c6-2N2_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="c6-2N2_tmb.webp" id="c6-2N2">
 						</div>
 				  	</div>
 				</div>	
@@ -93,17 +93,17 @@
 			    <div class="container-fluid my-4">    
 				  	<div class="row align-items-center">
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P1_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="Peinado 1" id="P1">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P1_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="P1_tmb.webp" id="P1">
 						</div>
 						<div class="col-sm-3">
 						  <!-- <p>Novias</p> -->
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P2_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="Peinado 2" id="P2">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P2_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="P2_tmb.webp" id="P2">
 						</div>
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P3_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="Peinado 3" id="P3">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P3_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="P3_tmb.webp" id="P3">
 						</div>
 						<div class="col-sm-3">
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P4_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="Peinado 4" id="P4">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P4_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="P4_tmb.webp" id="P4">
 						</div>
 				  	</div>
 				</div>	
@@ -112,7 +112,7 @@
 			    <div class="container-fluid my-4">    
 				  	<div class="row align-items-center">
 						<div class="col-sm-3">						  
-						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P5_tmb.jpg" class="img-thumbnail myImg shadow" style="width:100%" alt="Peinado 5" id="P5">
+						  <img onclick="javascript:obtenerID(this)" src="Img/fotos/P5_tmb.webp" class="img-thumbnail myImg shadow" style="width:100%" alt="P5_tmb.webp" id="P5">
 						</div>
 				  	</div>
 				</div>	

@@ -24,7 +24,7 @@
 				    <div class="d-inline-block col-8 align-self-center col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 animDer">
 				    	
 				      	<div class="coluAdd">
-					    	<img src="Img/fotos/novia3C.jpg" alt="novias" class="imgRed img-fluid rounded-circle">
+					    	<img src="Img/fotos/novia3C.webp" alt="novia3C.webp" class="imgRed img-fluid rounded-circle">
 				    	</div>
 				    </div>
 			    </div>
@@ -40,7 +40,7 @@
 				    </div>
 				    <div class="d-inline-block col-8 align-self-center order-lg-1 col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 animIzq">
 				      	<div >
-					    	<img src="Img/fotos/XV_C.jpg" alt="XV_años" class="imgRed img-fluid rounded-circle" style="border: 1px solid black">
+					    	<img src="Img/fotos/XV_C.webp" alt="XV_C.webp" class="imgRed img-fluid rounded-circle" style="border: 1px solid black">
 				    	</div>				      	
 			    	</div>					    
 			    </div>				    	
@@ -58,7 +58,7 @@
 				    <div class="d-inline-block col-8 align-self-center col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 animDer">
 				    	
 				      	<div class=" coluAdd  ">
-					    	<img src="Img/fotos/c2-1C.jpg" alt="Maquillaje_social" class="imgRed img-fluid rounded-circle">
+					    	<img src="Img/fotos/c2-1C.webp" alt="c2-1C.webp" class="imgRed img-fluid rounded-circle">
 				    	</div>
 				    </div>
 			    </div>
@@ -76,7 +76,7 @@
 				    <div class="d-inline-block col-8 align-self-center order-lg-1 col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 animIzq">
 
 				      	<div class="coluAdd">
-					    	<img src="Img/fotos/c1-1C.jpg" alt="Maquillaje_noche" class="imgRed img-fluid rounded-circle" style="border: 1px solid black">
+					    	<img src="Img/fotos/c1-1C.webp" alt="c1-1C.webp" class="imgRed img-fluid rounded-circle" style="border: 1px solid black">
 				    	</div>				      	
 			    	</div>					    
 			    </div>						

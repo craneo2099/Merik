@@ -640,9 +640,9 @@ y aplicarás la técnica de visagismo.</p>
 								
 								<div class="card">
 									<picture class="card-img-top">
-										<source srcset="Img/Etiquetas2.png" media="(max-width: 992px)">
-										<source srcset="Img/Etiquetas1.png">
-										<img src="Img/Etiquetas1.png" alt="etiqueta">
+										<source srcset="Img/Etiquetas2.webp" media="(max-width: 992px)">
+										<source srcset="Img/Etiquetas1.webp">
+										<img src="Img/Etiquetas1.webp" alt="Etiquetas1.webp">
 									</picture>									
 									<div class="card-img-overlay d-flex align-items-center justify-content-center">
 										<h3 class="mt-2" class=""><strong>&#36;4,450</strong></h3>								
@@ -707,9 +707,9 @@ y aplicarás la técnica de visagismo.</p>
 								
 								<div class="card">
 									<picture class="card-img-top">
-										<source srcset="Img/Etiquetas2.png" media="(max-width: 992px)">
-										<source srcset="Img/Etiquetas1.png">
-										<img src="Img/Etiquetas1.png" alt="etiqueta">
+										<source srcset="Img/Etiquetas2.webp" media="(max-width: 992px)">
+										<source srcset="Img/Etiquetas1.webp">
+										<img src="Img/Etiquetas1.webp" alt="Etiquetas1.webp">
 									</picture>									
 									<div class="card-img-overlay d-flex align-items-center justify-content-center">
 										<h3 class="mt-2" class=""><strong>&#36;3,500</strong></h3>								
@@ -767,9 +767,9 @@ y aplicarás la técnica de visagismo.</p>
 								
 								<div class="card">
 									<picture class="card-img-top">
-										<source srcset="Img/Etiquetas2.png" media="(max-width: 992px)">
-										<source srcset="Img/Etiquetas1.png">
-										<img src="Img/Etiquetas1.png" alt="etiqueta">
+										<source srcset="Img/Etiquetas2.webp" media="(max-width: 992px)">
+										<source srcset="Img/Etiquetas1.webp">
+										<img src="Img/Etiquetas1.webp" alt="Etiquetas1.webp">
 									</picture>									
 									<div class="card-img-overlay d-flex align-items-center justify-content-center">
 										<h3 class="mt-2" class=""><strong>&#36;3,000</strong></h3>								
@@ -840,9 +840,9 @@ y aplicarás la técnica de visagismo.</p>
 								
 								<div class="card">
 									<picture class="card-img-top">
-										<source srcset="Img/Etiquetas2.png" media="(max-width: 992px)">
-										<source srcset="Img/Etiquetas1.png">
-										<img src="Img/Etiquetas1.png" alt="etiqueta">
+										<source srcset="Img/Etiquetas2.webp" media="(max-width: 992px)">
+										<source srcset="Img/Etiquetas1.webp">
+										<img src="Img/Etiquetas1.webp" alt="Etiquetas1.webp">
 									</picture>									
 									<div class="card-img-overlay d-flex align-items-center justify-content-center">
 										<h3 class="mt-2" class=""><strong>&#36;3,500</strong></h3>								
@@ -891,9 +891,9 @@ y aplicarás la técnica de visagismo.</p>
 								
 								<div class="card">
 									<picture class="card-img-top">
-										<source srcset="Img/Etiquetas2.png" media="(max-width: 992px)">
-										<source srcset="Img/Etiquetas1.png">
-										<img src="Img/Etiquetas1.png" alt="etiqueta">
+										<source srcset="Img/Etiquetas2.webp" media="(max-width: 992px)">
+										<source srcset="Img/Etiquetas1.webp">
+										<img src="Img/Etiquetas1.webp" alt="Etiquetas1.webp">
 									</picture>									
 									<div class="card-img-overlay d-flex align-items-center justify-content-center">
 										<h3 class="mt-2" class=""><strong>&#36;2,700</strong></h3>								

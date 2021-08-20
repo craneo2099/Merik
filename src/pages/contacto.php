@@ -1,9 +1,9 @@
 
-	<article class="bg">
+	<article class="bg ">
 		<div style="visibility: hidden;height: 0px;overflow: none;">
 			<div class="gcse-searchresults-only"></div>
 		</div>
-		<div class="mx-0 w-100 row">
+		<div class="mh-100 mx-0 w-100 row">
 		    <div class="col-1" style="color: #ddd;">
 		      <!-- One of three columns -->
 		    </div>
@@ -15,7 +15,7 @@
 			    <div class="d-flex flex-nowrap dispWrap">		    	
 			    	<div class="childDiv align-self-center coluAdd">
 				      	
-			    		<img src="Img/Logo_g.png" alt="Mm2" class="imgRed img-fluid">      	
+			    		<img src="Img/Logo_g.webp" alt="Logo_g.webp" class="imgRed img-fluid">      	
 			    		     	
 			    	</div>		    	
 				    <!-- datos -->
@@ -35,7 +35,7 @@
 					    			<a href="https://www.instagram.com/merikmakeup/">
 					    			<h4 class="my-3 h4M">
 					    				<span>    					
-					    					<img class="mx-auto " src="Img/Instagram.png" width="35" height="35" alt="InstagramLogo">
+					    					<img class="mx-auto " src="Img/Instagram.webp" width="35" height="35" alt="Instagram.webp">
 					    				</span>
 					    				merikmakeup		
 					    			</h4></a>
@@ -54,7 +54,7 @@
 					    				<a href="https://api.whatsapp.com/send?phone=525586198660&text=Hola%20Merik%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n." class="float1" target="_blank">		
 					    				<span>
 					    					<!-- <i class="fa fa-whatsapp my-float"></i> -->	
-					    					<img class="mx-auto " src="Img/whatsapp-icon.png" width="35" height="35" alt="whatsapp-icon">
+					    					<img class="mx-auto " src="Img/whatsapp-icon.webp" width="35" height="35" alt="whatsapp-icon.webp">
 					    				</span>
 					    				55 86198660
 					    				</a>
@@ -68,10 +68,7 @@
 		    <div class="col-1" style="color: #ddd;">
 		      <!-- One of three columns -->
 		    </div>			    	
-		</div>			    
-				
-		
-			
+		</div>			
 		<!-- </div> -->
 		
 	</article>
